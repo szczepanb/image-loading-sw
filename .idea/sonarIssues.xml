@@ -8,6 +8,61 @@
             <set />
           </value>
         </entry>
+        <entry key="$PROJECT_DIR$/../messengerSender/sender.js">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../performance/puppeteer/package.json">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../performance/puppeteer/tracing.js">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../performance/puppeteer/tracingwithimage.js">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../www/msg.interia.pl/assets/app.js">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../www/msg.interia.pl/assets/styles/core.css">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../www/wydarzenia.interia.pl/config/hub4.xml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../www/wydarzenia.interia.pl/package.json">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../../lib/internal/Components/templates/Album/Embed/Video/Responsive-4.0.phtml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../../lib/internal/Components/templates/Navigation/MenuMain-2.0.phtml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../../lib/internal/Components/templates/Navigation/MenuMain-4.0.phtml">
+          <value>
+            <set />
+          </value>
+        </entry>
       </map>
     </option>
   </component>
