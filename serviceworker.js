@@ -461,7 +461,7 @@ Object(workbox_routing__WEBPACK_IMPORTED_MODULE_2__["registerRoute"])(new workbo
 }), {
   denylist: [/serviceworker\.js$/]
 }));
-Object(workbox_routing__WEBPACK_IMPORTED_MODULE_2__["registerRoute"])(/.+(?:i|msg2021)\.iplsc\.com.+\.(?:png|gif|jpg|jpeg|webp|svg)$/, new workbox_strategies__WEBPACK_IMPORTED_MODULE_1__["CacheFirst"]({
+Object(workbox_routing__WEBPACK_IMPORTED_MODULE_2__["registerRoute"])(/.+(?:i\.iplsc\.com|msg2021\.iplsc\.com|kwiatule.pl|ocdn.eu).+(?:png|gif|jpg|jpeg|webp|svg|.)$/, new workbox_strategies__WEBPACK_IMPORTED_MODULE_1__["CacheFirst"]({
   cacheName: 'workbox-cached-mobile-images',
   plugins: [new workbox_expiration__WEBPACK_IMPORTED_MODULE_5__["ExpirationPlugin"]({
     maxEntries: 200,

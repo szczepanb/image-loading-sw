@@ -9,12 +9,9 @@
       img{display: block; background-color: black; margin: 10px}
     </style>
     <script>
-        // register ServiceWorker, remember to use absolute path!
         if (navigator.serviceWorker) {
             navigator.serviceWorker.register('/image-loading-sw/serviceworker.js', {scope: '/image-loading-sw/'})
         }
-
-        // --- Application code here ---
     </script>
 </head>
 <body>
